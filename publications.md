@@ -46,12 +46,6 @@
 
 - Cheung CL, Rubinstein AI, **Peterson EJ**, Chatterji A, Sabirianov RF, Mei W, Lin T, Johnson JE and DeYoreo JJ, Steric and Electrostatic Complementarity in the Assembly of Two-Dimensional Virus Arrays, Langmuir (2010), 26 (5), pp3498–3505.
 
-- Wong MK, Armstrong ES, **Peterson EJ**, Grant RE, Cook RM, and Johnanssen HJ, The BIT1 Azoredustase Colormatric and Fluormetric Reporter System, presented at Experimental Biology 2009, New Orleans, April 2009.
-
-- Sowers BA, **Peterson EJ**, Grant RE, Lin WY, Dick DJ and Cook RM, Optimization of Probe Performance in Real-Time PCR through an Understanding of Synthesis Impurities, presented at Quantitative PCR, San Diego (CA) March, 2005.
-
-- **Peterson EJ**, Weeks BL, De Yoreo JJ, and Schwartz PV, Effect of Environmental Conditions on Dip Pen Nanolithography of Mercaptohexadecanoic Acid, J. Phys. Chem B (2004), 108 (39), pp15206-15210.
-
 
 **Posters**
 
@@ -94,6 +88,12 @@
 - **Peterson EJ** and Seger, CA, Reward-level dependent activity proceeding and following response selection: an fMRI study, presented at SFN2009, Chicago, IL, Fall 2009.
 
 - **Peterson EJ** and Seger, CA, To Do the Right Thing: Temporal Difference Learning As Tool to Dissect the Role of Feedback in the Striatum, presented at Cognitive Neuroscience Society Meeting (CNS), San Francisco, CA, May 2007.
+
+- Wong MK, Armstrong ES, **Peterson EJ**, Grant RE, Cook RM, and Johnanssen HJ, The BIT1 Azoredustase Colormatric and Fluormetric Reporter System, presented at Experimental Biology 2009, New Orleans, April 2009.
+
+- Sowers BA, **Peterson EJ**, Grant RE, Lin WY, Dick DJ and Cook RM, Optimization of Probe Performance in Real-Time PCR through an Understanding of Synthesis Impurities, presented at Quantitative PCR, San Diego (CA) March, 2005.
+
+- **Peterson EJ**, Weeks BL, De Yoreo JJ, and Schwartz PV, Effect of Environmental Conditions on Dip Pen Nanolithography of Mercaptohexadecanoic Acid, J. Phys. Chem B (2004), 108 (39), pp15206-15210.
 
 **Theses**
 
