@@ -9,3 +9,6 @@ Compile with `make`
 # Requires
 - [pandoc](https://pandoc.org)
 - [MacTex 2018](http://www.tug.org/mactex/)
+
+# Credit
+The `.sty` file and basic compilation workflow was 'borrowed' from https://github.com/mrocklin/cv
