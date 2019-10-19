@@ -22,7 +22,7 @@ Code for all projects is available as Open Source Software.
 
 - [kdf](https://github.com/parenthetical-e/kdf): A language agnostic key-value interface for hdf5.
 
-- [rl](https://github.com/parenthetical-e/rl): A python library for fitting reinforcement learning models to behavoiral data 
+- [rl](https://github.com/parenthetical-e/rl): A python library for fitting reinforcement learning models to behavioral data 
 
 - [modelmodel](http://parenthetical-e.github.io/modelmodel/): analyze and simulate (model-based) fMRI in python
 

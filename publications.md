@@ -1,36 +1,34 @@
 **Papers**
 
-- **Erik Peterson** & Verstynen T, A way around the exploration-exploitation dilemma, bioRxiv 671362v5, (2019)
+- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, bioRxiv 671362v5, (2019)
 
-- **Erik Peterson** & Verstynen T, Artificial astrocyte networks, _In prep._, (2019)
+- **Peterson EJ** & Verstynen T, Artificial astrocyte networks, _In prep._, (2019)
 
-- Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, bioRxiv 441626, (2018). _Under review at _J. Neurosci. Methods_.
+- Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, bioRxiv 441626, (2018). Under review at _J. Neurosci. Methods_.
 
-- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Keep it stupid simple, ArXiv 1809.03406, (2018). _Under review at AAAI_.
+- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Keep it stupid simple, ArXiv 1809.03406, (2018).
 
-- Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better Safe than Sorry: Evidence Accumulation Allows for Safe Reinforcement Learning, ArXiv 1809.09147 (2018). _Under review at AAAI_.
+- Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better Safe than Sorry: Evidence Accumulation Allows for Safe Reinforcement Learning, ArXiv 1809.09147 (2018).
 
-- **Peterson EJ** & Voytek B, Homeostasis and oscillatory modulation. (2018). _In prep_
+- **Peterson EJ** & Voytek B, Homeostasis and oscillatory modulation. _In prep_ (2018).
 
-- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations. (2018). _In prep_ 
+- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2019). 
 
-- **Peterson EJ** & Voytek B, The trade-off between neural computation and oscillatory coordination, bioRxiv 309427, (2018). https://doi.org/10.1101/309427
+- **Peterson EJ** & Voytek B, The trade-off between neural computation and oscillatory coordination, bioRxiv 309427, (2018). 
 
-- Matar Haller *, Thomas Donoghue *, **Erik Peterson** *, Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv, (2018). https://doi.org/10.1101/299859
+- Matar Haller *, Thomas Donoghue *, **Erik Peterson** *, Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv 29985  (2018)
 
-- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, bioRxiv, (2017). https://doi.org/10.1101/185074. _Under review: Neuron_
+- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, bioRxiv 185074v2 (2017). 
 
 - Gao RD, **Peterson EJ**, Voytek B, Inferring synaptic excitation/inhibition balance from field potentials, Neuroimage. 2017 Sep;158:70-78 (2017)
 
-- **Peterson EJ**, Burke QR, Campbell AM, Belger A, Voytek B, 1/f neural noise is a better predictor of schizophrenia than neural oscillations, bioRxiv https://doi.org/10.1101/113449 (2017), 
+- **Peterson EJ**, Burke QR, Campbell AM, Belger A, Voytek B, 1/f neural noise is a better predictor of schizophrenia than neural oscillations, bioRxiv 113449v4 (2017),
 
 - Cole SR, **Peterson EJ**, van der Meij R, Hemptinne C, Starr PA, & Voytek B, Nonsinusoidal oscillations underlie pathological phase-amplitude coupling in the motor cortex in Parkinson's disease, J Neurosci (2017),
 
-- Haller M, **Peterson EJ**, Varma P, Noto T, Knight RT, Shestyuk A, & Voytek B. Automated “spectrally fingerprinting” of electrophysiological oscillations, _In preperation_ (2017). 
-
 - Voytek B, Postle BR, Watrous AJ, **Peterson EJ**, van der Meij R, Gao RD, Inferring neurophysiology and network-level dynamics from the human EEG, Nature Neuroscience (2016), _Accepteed_.
 
-- **Peterson EJ** and Voytek B, Balanced oscillatory coupling improves information flow, bioRxiv (2016). 
+- **Peterson EJ** and Voytek B, Balanced oscillatory coupling improves information flow, bioRxiv 030304v2 (2016). 
 
 - **Peterson EJ** and Seger CA, In model-based fMRI significant is less than specific., bioArxiv 429621 (2017).
 
