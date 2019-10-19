@@ -1,0 +1,6 @@
+- *Aritifcial astrocyte networks*, SFN (Nanosymposium), Chicago, Oct 2019.
+- *Build your own brainwaves*, Nerd Nite, Los Angeles, Feb 2018.
+- *Conflicted data science*, Open San Diego, San Diego, Feb, 2016.
+- *The electronic dance club brain*, Nerd Nite, San Diego, Oct 2016.
+- *In theory you're paying attention*, Ignite, San Diego, Nov 2016.
+- *Science ambassador*, Science Hack Day, San Francisco, Oct, 2014.

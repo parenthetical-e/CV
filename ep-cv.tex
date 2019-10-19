@@ -1,0 +1,131 @@
+\documentclass[margin,line]{res}
+
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[unicode=true,
+            colorlinks=true,
+            linkcolor=blue]{hyperref}
+\hypersetup{urlcolor=BlueViolet} % Does not apply color to href's
+\hypersetup{colorlinks,urlcolor=BlueViolet} % href's are correct, but navigation
+
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\begin{document}
+\newcommand{\link}[1]{\texttt{#1}}
+\providecommand{\tightlist}{%
+      \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+\name{Erik J. Peterson\vspace*{.1in}}
+
+\begin{resume}
+\section{\sc Contact Information}
+\vspace{.05in}
+%=========INFO=========
+\begin{tabular}{@{}p{2in}p{4in}}
+{\it E-mail:}  Erik.Exists@gmail.com   & {\it Webpage:} \href{http://robotpuggle.com}{http://robotpuggle.com} \\
+\end{tabular}
+
+
+%========= RESEARCH =========
+\section{\sc Research Interests}
+I build models and do theory and at the intersection of biology and cognition. I work with a broad range tools from artificial neural networks to biophysical neural models.
+
+
+%========= EDUCATION ==========
+\section{\sc Education}
+{\bf Colorado State University}, Fort Collins, CO\\
+%{\em Department of Statistics}
+\vspace*{-.1in}
+\begin{list1}
+\item[] Ph.D, Psychology \hfill {\bf 2012}
+\item[] M.S., Psychology \hfill {\bf 2009}
+\end{list1}
+
+{\bf California Polytechnic State University}, San Luis Obispo, CA\\
+%{\em Department of Mathematics and Statistics}
+\vspace*{-.1in}
+\begin{list1}
+\item[] B.S., Chemistry and Biochemistry; Minor, Philosophy \hfill {\bf May 2004}
+\end{list1}
+
+%========= WORK EXPERIENCE ==========
+\section{\sc Professional Experience}
+
+%\vspace{-.3cm}
+{\bf Carnegie Mellon University} - Pittsburgh, PA \\
+{\em Research Fellow (Research Scientist)} \hfill {\bf 2018 - Present}\\
+Biologically-inspired methods for cooperative AI. Game theory. Reinforcement learning. Curiosity learning. 
+
+%\vspace{-.3cm}
+{\bf Kernel, LLC} - Los Angeles, CA\\
+{\em Senior Research Scientist} \hfill {\bf 2017 - 2018}\\
+Technical lead creating a \emph{real-time} system for complex spatio-temporal voltage field shaping in deep brain stimulation.
+
+%\vspace{-.3cm}
+{\bf U.C. San Diego} - San Diego, CA\\
+{\em Postdoctoral Fellow} \hfill {\bf 2014 - 2017}\\
+Novel theoretical accounts and biophysical modeling approaches of neural oscillations. Advised and developed projects using machine-learning to analyze eletrohysiological time-series data.
+
+%\vspace{-.3cm}
+{\bf University of Pittsburgh} - Pittsburgh, CA\\
+{\em Postdoctoral Fellow} \hfill {\bf 2012 - 2013}\\
+Theoretical and empirical analysis of human decision making. Machine learning analysis of fMRI data.
+
+%\vspace{-.3cm}
+{\bf Colorado State University} - Fort Collins, CO\\
+{\em Graduate Research Assistant} \hfill {\bf 2006 - 2012}\\
+Human reinforcement learning and category learning. Modelling and fMRI data analysis. Software development.
+
+{\bf Biosearch Technologies} - Novato, CA\\
+{\em Research Assistant II} \hfill {\bf 2004 - 2006}\\
+Optimization of high-thoughput chemistry. Reporter gene development.
+
+
+
+%========= PUBLICATIONS ==========
+\section{\sc Publications}
+
+\input{publications.tex}
+
+%========= TALKs ==========
+\section{\sc Talks}
+
+\input{talks.tex}
+
+%=========== Software ================
+\section{\sc Software}
+
+\input{software.tex}
+
+%=========== Teaching ================
+\section{\sc Teaching}
+
+\input{teaching.tex}
+
+%=========== AWARDS ================
+\section{\sc Awards}
+
+\input{awards.tex}
+
+%=========== Footer ================
+\end{resume}
+\end{document}
+
