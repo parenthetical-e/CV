@@ -1,6 +1,6 @@
 **Papers**
 
-- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, bioRxiv 671362v5 (2019). Under review at _Nature Neuroscience_.
+- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, bioRxiv 671362v5 (2019). 
 
 - **Peterson EJ** & Verstynen T, Artificial astrocyte networks, _In prep._ (2019).
 
