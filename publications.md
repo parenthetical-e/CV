@@ -14,7 +14,7 @@
 
 - **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2019). 
 
-- **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, bioRxiv 309427, (2018). 
+- **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, bioRxiv 309427 (2018). 
 
 - Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv 29985 (2018). [1]: Co-first. Under review at _Nature Neuroscience_.
 
