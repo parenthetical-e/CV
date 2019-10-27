@@ -1,4 +1,4 @@
-pdf : publications.tex software.tex talks.tex teaching.tex awards.tex
+pdf : publications.tex software.tex talks.tex teaching.tex awards.tex activities.tex
 	pdflatex ep-cv.tex
 
 publications.tex : publications.md
@@ -15,6 +15,9 @@ teaching.tex : teaching.md
 
 awards.tex : awards.md
 	pandoc awards.md -o awards.tex
+
+activities.tex : activities.md
+	pandoc activities.md -o activities.tex
 
 clean:
 	-rm *.aux

@@ -1,0 +1,2 @@
+- _Summer 2014_: Summer school in Theoretical Neuroscience, University of Waterloo
+- _Summer 2003_: Undergraduate Summer Research Fellowship, Lawrence Livermore National, Laboratory Livermore CA.
