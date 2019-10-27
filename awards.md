@@ -1,1 +1,1 @@
-- _2010_: Editor’s Choice Award, Systems Neuroscience Section, NeuroImage
+- _2010_: Editor’s Choice Award, Systems Neuroscience Section, NeuroImage.
