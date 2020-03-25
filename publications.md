@@ -6,7 +6,7 @@
 
 - Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, bioRxiv 441626 (2018). Under review at _J. Neurosci. Methods_.
 
-- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Keep it stupid simple, ArXiv 1809.03406 (2018). Under review at _Neurons, Behavior, Data analysis, and Theory_.
+- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Combining Imagination and Heuristics to Learn Strategies that Generalize, Under review at _Neurons, Behavior, Data analysis, and Theory_.
 
 - Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better safe than sorry: evidence accumulation allows for safe reinforcement learning, ArXiv 1809.09147 (2018).
 
