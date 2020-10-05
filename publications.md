@@ -1,48 +1,52 @@
+**In prep**
+
+- **Peterson EJ** & Verstynen T, What can astrocytes compute?, _In prep._ (2020).
+
+- **Peterson EJ** & Voytek B, Benefits and costs of oscillatory coding _In prep_ (2020). 
+
+- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2020). 
+
 **Papers**
 
-- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, bioRxiv 671362v5 (2019). 
+- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, _bioRxiv_ 671362v5 (2019). 
 
-- **Peterson EJ** & Verstynen T, Artificial astrocyte networks, _In prep._ (2019).
+- Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, _bioRxiv_ 441626 (2018). Under review at _J. Neurosci. Methods_.
 
-- Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, bioRxiv 441626 (2018). Under review at _J. Neurosci. Methods_.
+- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Combining imagination and heuristics to learn strategies that generalize, _Neurons, Behavior, Data analysis, and Theory_ 3(4) (2020).
 
-- **Peterson EJ**, Müyesser NA, Verstynen T & Dunovan K, Combining Imagination and Heuristics to Learn Strategies that Generalize, Under review at _Neurons, Behavior, Data analysis, and Theory_.
+- Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better safe than sorry: evidence accumulation allows for safe reinforcement learning, _ArXiv_ 1809.09147 (2018).
 
-- Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better safe than sorry: evidence accumulation allows for safe reinforcement learning, ArXiv 1809.09147 (2018).
+- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020). .
 
-- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, bioRxiv 615450v1 (2018). Under review at _J Neurophys_.
+- **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, _bioRxiv_ 309427 (2018). 
 
-- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2019). 
+- Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv 29985 (2018). [1]: Co-first. _Nature Neuroscience_ (Accepted).
 
-- **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, bioRxiv 309427 (2018). 
+- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). 
 
-- Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv 29985 (2018). [1]: Co-first. Under review at _Nature Neuroscience_.
+- Gao RD, **Peterson EJ**, Voytek B, Inferring synaptic excitation/inhibition balance from field potentials, _Neuroimage_ 158 (2017).
 
-- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, bioRxiv 185074v2 (2017). 
+- **Peterson EJ**, Burke QR, Campbell AM, Belger A, Voytek B, 1/f neural noise is a better predictor of schizophrenia than neural oscillations, _bioRxiv_ 113449v4 (2017)
 
-- Gao RD, **Peterson EJ**, Voytek B, Inferring synaptic excitation/inhibition balance from field potentials, Neuroimage Sep;158:70-78 (2017).
+- Cole SR, **Peterson EJ**, van der Meij R, Hemptinne C, Starr PA, & Voytek B, Nonsinusoidal oscillations underlie pathological phase-amplitude coupling in the motor cortex in Parkinson's disease, _J Neurosci_ 37(18) (2017)
 
-- **Peterson EJ**, Burke QR, Campbell AM, Belger A, Voytek B, 1/f neural noise is a better predictor of schizophrenia than neural oscillations, bioRxiv 113449v4 (2017)
+- **Peterson EJ** and Voytek B, Balanced oscillatory coupling improves information flow, _bioRxiv_ 030304v2 (2016). 
 
-- Cole SR, **Peterson EJ**, van der Meij R, Hemptinne C, Starr PA, & Voytek B, Nonsinusoidal oscillations underlie pathological phase-amplitude coupling in the motor cortex in Parkinson's disease, J Neurosci 37(18) (2017)
+- **Peterson EJ** and Seger CA, In model-based fMRI significant is less than specific., _bioRxiv_ 429621 (2017).
 
-- **Peterson EJ** and Voytek B, Balanced oscillatory coupling improves information flow, bioRxiv 030304v2 (2016). 
+- **Peterson EJ**, Seger CA and Anderson CA, Many Hats: Changes in the Striatal Bold Signal Across Stimulus, Preparation, Response and Feedback, _Journal of Neurophysiology_ 110(7) 1689-1702 (2013).
 
-- **Peterson EJ** and Seger CA, In model-based fMRI significant is less than specific., bioArxiv 429621 (2017).
+- Seger CA and **Peterson EJ**, Categorization = Decision Making - Generalization, _Neurosci Biobehav Rev_ 37(7) 1187-1200 (2013).
 
-- **Peterson EJ**, Seger CA and Anderson CA, Many Hats: Changes in the Striatal Bold Signal Across Stimulus, Preparation, Response and Feedback, Journal of Neurophysiology 110(7) 1689-1702 (2013).
+- Seger CA, Dennison CM, Lopez-Paniagua DL, **Peterson EJ**, and Roark AA, Dissociating Hippocampal and Basal Ganglia Contributions to Category Learning Using Stimulus Novelty and Subjective Judgments, _Neuroimage_ 55(4), 1739-53 (2011).
 
-- Seger CA and **Peterson EJ**, Categorization = Decision Making - Generalization, Neurosci Biobehav Rev 37(7) pp1187-1200 (2013).
+- Seger CA, **Peterson EJ**, Cincotta C, Lopez-Paniagua DL and Anderson C, Dissociating the Contributions of Independent Corticostriatal Systems to Visual Categorization Learning Through the Use of Reinforcement Learning Modeling and Granger Causality Modeling, _NeuroImage_ 50(2) 644-656 (2010).
 
-- Seger CA, Dennison CM, Lopez-Paniagua DL, **Peterson EJ**, and Roark AA, Dissociating Hippocampal and Basal Ganglia Contributions to Category Learning Using Stimulus Novelty and Subjective Judgments, Neuroimage 55(4), pp1739-53 (2011).
+- Bedoukian MA, Whitesell J, **Peterson EJ**, Clay C and Partin KM, The Stargazin C Terminus Encodes an Intrinsic and Transferable Membrane Sorting Signal, _J. Biol. Chem._, 283(3), 1597-1600 (2008).
 
-- Seger CA, **Peterson EJ**, Cincotta C, Lopez-Paniagua DL and Anderson C, Dissociating the Contributions of Independent Corticostriatal Systems to Visual Categorization Learning Through the Use of Reinforcement Learning Modeling and Granger Causality Modeling, NeuroImage 50(2) pp644-656 (2010).
+- Johansson HE, Johansson MK, Wong AC, Armstrong ES, **Peterson EJ**, Grant RE, Roy MA, Reddington MV and Cook RM, BTI1, an Azoreductase with pH Dependent Substrate Specificity, _Appl Environ Microbiol_ 77(12) 4223-5 (2012).
 
-- Bedoukian MA, Whitesell J, **Peterson EJ**, Clay C and Partin KM, The Stargazin C Terminus Encodes an Intrinsic and Transferable Membrane Sorting Signal, J. Biol. Chem., 283(3), pp1597-1600 (2008).
-
-- Johansson HE, Johansson MK, Wong AC, Armstrong ES, **Peterson EJ**, Grant RE, Roy MA, Reddington MV and Cook RM, BTI1, an Azoreductase with pH Dependent Substrate Specificity, Appl Environ Microbiol Jun;77(12):4223-5 (2012).
-
-- Cheung CL, Rubinstein AI, **Peterson EJ**, Chatterji A, Sabirianov RF, Mei W, Lin T, Johnson JE and DeYoreo JJ, Steric and Electrostatic Complementarity in the Assembly of Two-Dimensional Virus Arrays, Langmuir 26 (5) pp3498–3505 (2010).
+- Cheung CL, Rubinstein AI, **Peterson EJ**, Chatterji A, Sabirianov RF, Mei W, Lin T, Johnson JE and DeYoreo JJ, Steric and Electrostatic Complementarity in the Assembly of Two-Dimensional Virus Arrays, _Langmuir_ 26(5) 3498–3505 (2010).
 
 
 **Posters**
