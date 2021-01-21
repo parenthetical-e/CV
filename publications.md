@@ -20,7 +20,7 @@
 
 - **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, _bioRxiv_ 309427 (2018). 
 
-- Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, bioRxiv 29985 (2018). [1]: Co-first. _Nature Neuroscience_ (Accepted).
+- Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, _Nature Neuroscience_ 23 1655-1665 (2020). [1]: Co-first. 
 
 - **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). 
 
