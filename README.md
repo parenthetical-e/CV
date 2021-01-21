@@ -11,4 +11,4 @@ Compile with `make`
 - [MacTex 2018](http://www.tug.org/mactex/)
 
 # Credit
-The `.sty` file and basic compilation workflow was 'borrowed' from https://github.com/mrocklin/cv
+The `.sty` file, and basic compilation workflow, were blatently stolen from https://github.com/mrocklin/cv
