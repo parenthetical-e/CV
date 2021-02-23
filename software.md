@@ -2,7 +2,7 @@ Code for all projects is available as open source software.
 
 - [infomercial](https://github.com/CoAxLab/infomercial): Simulate agents who seek information and reward in equal measure (pytorch).
 
-- [explorationlib](https://github.com/parenthetical-e/explorationlib): Simulate biological exploration with many different kindss of agents and envinroemnts. Written in support of an upcoming book on biologicaal exploration.
+- [explorationlib](https://github.com/parenthetical-e/explorationlib): Simulate biological exploration with many different kinds of agents and environments. Written in support of an upcoming book on biological exploration.
 
 - [azad](https://github.com/CoAxLab/azad): RL agents that use simple heuristics to generalize optimal play (pytorch).
 
