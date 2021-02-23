@@ -1,4 +1,4 @@
-pdf : publications.tex software.tex talks.tex teaching.tex awards.tex activities.tex
+pdf : publications.tex software.tex talks.tex press.tex teaching.tex awards.tex activities.tex
 	pdflatex ep-cv.tex
 
 publications.tex : publications.md
@@ -16,6 +16,9 @@ teaching.tex : teaching.md
 awards.tex : awards.md
 	pandoc awards.md -o awards.tex
 
+press.tex : press.md
+	pandoc press.md -o press.tex
+
 activities.tex : activities.md
 	pandoc activities.md -o activities.tex
 
@@ -23,3 +26,4 @@ clean:
 	-rm *.aux
 	-rm *.log
 	-rm *.out
+	-rm *_temp.tex

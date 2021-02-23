@@ -1,14 +1,10 @@
-**In prep**
-
-- **Peterson EJ** & Verstynen T, What can astrocytes compute?, _In prep._ (2020).
-
-- **Peterson EJ** & Voytek B, Benefits and costs of oscillatory coding _In prep_ (2020). 
-
-- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2020). 
-
 **Papers**
 
-- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, _bioRxiv_ 671362v5 (2019). 
+- Thomas Donoghue[1], Matar Haller[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra into periodic and aperiodic components, _Nature Neuroscience_ 23 1655-1665 (2020). [1]: Co-first. 
+
+- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, _bioRxiv_ 671362v8 (2019). 
+
+- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020). .
 
 - Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, _bioRxiv_ 441626 (2018). Under review at _J. Neurosci. Methods_.
 
@@ -16,13 +12,9 @@
 
 - Agarwal A, Kumar AV, Dunovan K, **Peterson EJ**, VerstynenT & Sycara K, Better safe than sorry: evidence accumulation allows for safe reinforcement learning, _ArXiv_ 1809.09147 (2018).
 
-- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020). .
-
 - **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, _bioRxiv_ 309427 (2018). 
 
-- Matar Haller[1], Thomas Donoghue[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra, _Nature Neuroscience_ 23 1655-1665 (2020). [1]: Co-first. 
-
-- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). 
+- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). Under review at Neuron (...again).
 
 - Gao RD, **Peterson EJ**, Voytek B, Inferring synaptic excitation/inhibition balance from field potentials, _Neuroimage_ 158 (2017).
 
@@ -47,6 +39,15 @@
 - Johansson HE, Johansson MK, Wong AC, Armstrong ES, **Peterson EJ**, Grant RE, Roy MA, Reddington MV and Cook RM, BTI1, an Azoreductase with pH Dependent Substrate Specificity, _Appl Environ Microbiol_ 77(12) 4223-5 (2012).
 
 - Cheung CL, Rubinstein AI, **Peterson EJ**, Chatterji A, Sabirianov RF, Mei W, Lin T, Johnson JE and DeYoreo JJ, Steric and Electrostatic Complementarity in the Assembly of Two-Dimensional Virus Arrays, _Langmuir_ 26(5) 3498–3505 (2010).
+
+
+**In prep**
+
+- **Peterson EJ** & Verstynen T, What can astrocytes compute?, _In prep._ (2020).
+
+- **Peterson EJ** & Voytek B, Benefits and costs of oscillatory coding _In prep_ (2020). 
+
+- **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2020). 
 
 
 **Posters**

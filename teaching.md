@@ -1,3 +1,4 @@
+- _Spring 2021_: Instructor/Course designer for Biologically Intelligent Exploration (85-435 & 85-735) at Carnegie Mellon.
 - _Fall 2018_: Guest lecture in Neural and Cognitive Models of Adaptive Decisions (85-435 & 85-735) at Carnegie Mellon.
 - _Fall 2014 - 2017_: Multiple guest lectures in Introduction to Data Science (COGS 9) at U.C. San Diego.
 - _Fall 2014 - 2017_: Multiple guest lectures in Data Science In Practice (COGS 108) at U.C. San Diego.
