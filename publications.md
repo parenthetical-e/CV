@@ -1,10 +1,12 @@
 **Papers**
 
+- **Peterson EJ**, What can astrocytes compute?, _bioRxiv_ 465192v1 (2021). 
+  
 - Thomas Donoghue[1], Matar Haller[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra into periodic and aperiodic components, _Nature Neuroscience_ 23 1655-1665 (2020). [1]: Co-first. 
 
 - **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, _bioRxiv_ 671362v8 (2019). 
 
-- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020). .
+- **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020).
 
 - Izhikevich L, Gao R, **Peterson EJ** & Bradley Voytek, Measuring the average power of neural oscillations, _bioRxiv_ 441626 (2018). Under review at _J. Neurosci. Methods_.
 
@@ -14,7 +16,7 @@
 
 - **Peterson EJ** & Voytek B, Healthy oscillatory coordination is bounded by single-unit computation, _bioRxiv_ 309427 (2018). 
 
-- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). Under review at Neuron (...again).
+- **Peterson EJ** & Voytek B, Alpha rhythmically alters gain by modulating excitatory-inhibitory background activity, _bioRxiv_ 185074v2 (2017). 
 
 - Gao RD, **Peterson EJ**, Voytek B, Inferring synaptic excitation/inhibition balance from field potentials, _Neuroimage_ 158 (2017).
 

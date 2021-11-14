@@ -1,4 +1,4 @@
-pdf : publications.tex software.tex talks.tex press.tex teaching.tex awards.tex activities.tex
+pdf : publications.tex software.tex grants.tex talks.tex press.tex teaching.tex awards.tex activities.tex
 	pdflatex ep-cv.tex
 
 publications.tex : publications.md
@@ -18,6 +18,9 @@ awards.tex : awards.md
 
 press.tex : press.md
 	pandoc press.md -o press.tex
+
+grants.tex : grants.md
+	pandoc grants.md -o grants.tex
 
 activities.tex : activities.md
 	pandoc activities.md -o activities.tex
