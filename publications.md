@@ -1,10 +1,12 @@
-**Papers**
-
+- Lavin A, Zenil H, Paige B, Krakauez D, Gottschlich J, Mattson T, Anandkumar A, Choudry S, Rocki K, Baydin A.G, Prunkl C, Paige B, Isayev O, **Peterson EJ**, McMahon PL, Macke J, Cranmer K, Zhang J, Wainwright H, Hanuka A, Veloso M, Assefa S, Zheng S, Pfeffer A, Simulation Intelligence: Towards a New Generation of Scientific Methods, _arXiv_ 2112.03235 (2021).
+ 
 - **Peterson EJ**, What can astrocytes compute?, _bioRxiv_ 465192v1 (2021). 
-  
+
+- **Peterson EJ** & Voytek B, Costs and benefits of using rhythmic rate codes, _bioRxiv_ 441276v2 (2021). 
+   
 - Thomas Donoghue[1], Matar Haller[1], **Erik Peterson**[1], Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto, Robert T. Knight, Avgusta Shestyuk,  Bradley Voytek, Parameterizing neural power spectra into periodic and aperiodic components, _Nature Neuroscience_ 23 1655-1665 (2020). [1]: Co-first. 
 
-- **Peterson EJ** & Verstynen T, A way around the exploration-exploitation dilemma, _bioRxiv_ 671362v8 (2019). 
+- **Peterson EJ** & Verstynen TD, Curiosity eliminates the exploration-exploitation dilemma, _bioRxiv_ 671362v10 (2020). 
 
 - **Peterson EJ** & Voytek B, Homeostatic mechanisms may shape the type and duration of oscillatory modulation, _J Neurophys_ 124(1) (2020).
 
@@ -44,10 +46,6 @@
 
 
 **In prep**
-
-- **Peterson EJ** & Verstynen T, What can astrocytes compute?, _In prep._ (2020).
-
-- **Peterson EJ** & Voytek B, Benefits and costs of oscillatory coding _In prep_ (2020). 
 
 - **Peterson EJ** & Voytek B, Learning with discrete representations using continuous chaotic neural populations _In prep_ (2020). 
 
